@@ -1,33 +1,34 @@
 <div align="center">
-  <img alt="Artem Morozov — AI Engineer and Full-Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0047AB&height=200&section=header&text=Artem%20Morozov&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descColor=ffffff" />
+  <img alt="Artem Morozov" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0047AB&height=200&section=header&text=Artem%20Morozov&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Enthusiast&descAlignY=58&descColor=ffffff" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Building+AI+agents+%26+automations;Next.js+%2B+FastAPI+%2B+LangChain;Shipping+real+products+from+Ukraine+🇺🇦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Next.js+%2B+FastAPI+%2B+OpenAI;Building+and+learning+in+public;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 What I build
+## 🧠 What I do
 
-AI-powered products — from architecture to deployment. Not demos, not prototypes — things that run in production and solve real problems for real users.
+I build full-stack web apps and integrate AI APIs into real products.
+Currently deepening my AI/ML stack — working toward agents and automation.
 
-- **AI:** LangChain · LangGraph · OpenAI API · RAG · vector search
-- **Automation:** n8n · aiogram · Telegram bots · webhook pipelines
 - **Frontend:** Next.js · React · TypeScript
 - **Backend:** FastAPI · Python · REST APIs
+- **AI:** OpenAI API · Telegram bots
+- **Infra:** PostgreSQL · Docker
 - **Looking for:** freelance projects · remote worldwide
 
 ---
 
-## 🚀 Shipped
+## 🚀 Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🌳 **[SkillTree.cloud](https://skilltree.cloud)** | Interactive skill progression platform · live, real users | Next.js · FastAPI |
-| 🤖 **AI Hackathon Chatbot** | Built end-to-end under hackathon pressure · **Top 3 finish** | LangChain · OpenAI |
+| 🌳 **[SkillTree.cloud](https://skilltree.cloud)** | Interactive skill progression platform · deployed | Next.js · FastAPI · PostgreSQL |
+| 🤖 **AI Hackathon Chatbot** | Built end-to-end at a hackathon · reached the finals | FastAPI · OpenAI API |
 
 ---
 
@@ -41,8 +42,6 @@ AI-powered products — from architecture to deployment. Not demos, not prototyp
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -53,7 +52,7 @@ AI-powered products — from architecture to deployment. Not demos, not prototyp
 
 ## 📫 Let's work together
 
-I'm open to **freelance projects** — especially Telegram bots, n8n automation, AI agents & RAG systems, full-stack web apps.
+Open to **freelance** — full-stack web apps, Telegram bots, OpenAI integrations.
 
 <div align="center">
 
@@ -65,5 +64,5 @@ I'm open to **freelance projects** — especially Telegram bots, n8n automation,
 </div>
 
 <div align="center">
-  <img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:00D9FF&height=100&section=footer" />
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:00D9FF&height=100&section=footer" />
 </div>
