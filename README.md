@@ -1,37 +1,27 @@
-<div align="center">
-  <img alt="Artem Morozov" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0047AB&height=200&section=header&text=Artem%20Morozov&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Enthusiast&descAlignY=58&descColor=ffffff" />
-</div>
+
+<br/>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Next.js+%2B+FastAPI+%2B+OpenAI;Building+and+learning+in+public;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6)](https://git.io/typing-svg)
-
+  <a href="https://devmap.cc/u/temorozov">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://devmap.cc/api/badge/temorozov?theme=dark">
+      <img alt="DevMap Profile" src="https://devmap.cc/api/badge/temorozov?theme=light">
+    </picture>
+  </a>
 </div>
 
----
-
-## 🧠 What I do
-
-I build full-stack web apps and integrate AI APIs into real products.
-Currently deepening my AI/ML stack — working toward agents and automation.
-
-- **Frontend:** Next.js · React · TypeScript
-- **Backend:** FastAPI · Python · REST APIs
-- **AI:** OpenAI API · Telegram bots
-- **Infra:** PostgreSQL · Docker
-- **Looking for:** freelance projects · remote worldwide
+<br/>
 
 ---
 
-## 🚀 Projects
+## About
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| 🗺️  **[devmap.cc](https://devmap.cc)** | Open-source developer skill tracking and roadmap platform · deployed | Angular · NestJS · PostgreSQL |
+Full-stack developer from Ukraine 🇺🇦, building web apps and AI-powered products.  
+Focused on agents and automation — learning and shipping in public.
 
 ---
 
-## 🛠 Tech Stack
+## Stack
 
 <div align="center">
 
@@ -49,9 +39,17 @@ Currently deepening my AI/ML stack — working toward agents and automation.
 
 ---
 
-## 📫 Let's work together
+## Projects
 
-Open to **freelance** — full-stack web apps, Telegram bots, OpenAI integrations.
+| Project | Description | Stack |
+|:---|:---|:---|
+| 🗺️ **[devmap.cc](https://devmap.cc)** | Open-source developer skill tracking & roadmap platform · live | Angular · NestJS · PostgreSQL |
+
+---
+
+## Let's work together
+
+Open to **freelance** — full-stack web apps, Telegram bots, AI integrations.
 
 <div align="center">
 
@@ -60,8 +58,4 @@ Open to **freelance** — full-stack web apps, Telegram bots, OpenAI integration
 
 <sub>Remote · Worldwide · Available now · Ukraine 🇺🇦</sub>
 
-</div>
-
-<div align="center">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:00D9FF&height=100&section=footer" />
 </div>
