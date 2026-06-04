@@ -27,7 +27,7 @@ Currently deepening my AI/ML stack — working toward agents and automation.
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🗺️  **[DevMap](https://devmap.cc)** | Open-source developer skill tracking and roadmap platform · deployed | Angular · NestJS · PostgreSQL |
+| 🗺️  **[devmap.cc](https://devmap.cc)** | Open-source developer skill tracking and roadmap platform · deployed | Angular · NestJS · PostgreSQL |
 
 ---
 
