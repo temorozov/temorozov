@@ -27,8 +27,7 @@ Currently deepening my AI/ML stack — working toward agents and automation.
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🌳 **[SkillTree.cloud](https://skilltree.cloud)** | Interactive skill progression platform · deployed | Next.js · FastAPI · PostgreSQL |
-| 🤖 **AI Hackathon Chatbot** | Built end-to-end at a hackathon · reached the finals | FastAPI · OpenAI API |
+| 🗺️  **[DevMap](https://devmap.cc)** | Open-source developer skill tracking and roadmap platform · deployed | Angular · NestJS · PostgreSQL |
 
 ---
 
