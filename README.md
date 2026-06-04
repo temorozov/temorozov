@@ -9,10 +9,7 @@
     </picture>
   </a>
 </div>
-
 <br/>
-
----
 
 ## About
 
