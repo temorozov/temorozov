@@ -9,6 +9,7 @@
     </picture>
   </a>
 </div>
+
 <br/>
 
 ## About
@@ -16,7 +17,7 @@
 Full-stack developer from Ukraine 🇺🇦, building web apps and AI-powered products.  
 Focused on agents and automation — learning and shipping in public.
 
----
+
 
 ## Stack
 
@@ -34,7 +35,6 @@ Focused on agents and automation — learning and shipping in public.
 
 </div>
 
----
 
 ## Projects
 
@@ -42,7 +42,6 @@ Focused on agents and automation — learning and shipping in public.
 |:---|:---|:---|
 | 🗺️ **[devmap.cc](https://devmap.cc)** | Open-source developer skill tracking & roadmap platform · live | Angular · NestJS · PostgreSQL |
 
----
 
 ## Let's work together
 
