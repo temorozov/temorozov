@@ -9,4 +9,4 @@ Full-stack developer focused on AI-powered web apps, automation workflows, and T
 
 **Stack:** Python · FastAPI · Next.js · OpenAI API · n8n · aiogram
 
-📩 Open to freelance — [your@email.com](mailto:your@email.com)
+📩 Open to freelance — [artemmorozovnot@gmail.com](mailto:artemmorozovnot@gmail.com)
