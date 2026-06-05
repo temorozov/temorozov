@@ -4,3 +4,9 @@
     <img alt="DevMap" src="https://devmap.cc/api/badge/temorozov?theme=light">
   </picture>
 </a>
+<br><br>
+Full-stack developer focused on AI-powered web apps, automation workflows, and Telegram bots.
+
+**Stack:** Python · FastAPI · Next.js · OpenAI API · n8n · aiogram
+
+📩 Open to freelance — [your@email.com](mailto:your@email.com)
