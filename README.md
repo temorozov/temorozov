@@ -1,9 +1,4 @@
-<a href="https://devmap.cc/u/temorozov">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://devmap.cc/api/badge/temorozov?theme=dark">
-    <img alt="DevMap" src="https://devmap.cc/api/badge/temorozov?theme=light">
-  </picture>
-</a>
+[![DevMap](https://devmap.cc/api/trees/badge/temorozov)](https://devmap.cc/u/temorozov)
 <br><br>
 
 Full-stack developer focused on AI-powered web apps, automation workflows, and Telegram bots.
