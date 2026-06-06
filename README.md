@@ -5,8 +5,7 @@
   </picture>
 </a>
 <br><br>
-Full-stack developer focused on AI-powered web apps, automation workflows, and Telegram bots.
 
-**Stack:** Python · FastAPI · Next.js · OpenAI API · n8n · aiogram
+Full-stack developer focused on AI-powered web apps, automation workflows, and Telegram bots.
 
 📩 Open to freelance — [artemmorozovnot@gmail.com](mailto:artemmorozovnot@gmail.com)
