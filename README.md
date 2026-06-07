@@ -3,4 +3,12 @@
 
 Full-stack developer focused on AI-powered web apps, automation workflows, and Telegram bots.
 
+## Projects
+
+**[devmap.cc](https://devmap.cc)**  
+Connect GitHub, get an editable map of your dev stack, and share it as a public profile.
+
+**[@epilandparkbot](https://t.me/epilandparkbot)**  
+Telegram bot for Epiland park — WebApp booking, AI replies, and an admin panel with live chat.
+
 📩 Open to freelance — [artemmorozovnot@gmail.com](mailto:artemmorozovnot@gmail.com)
