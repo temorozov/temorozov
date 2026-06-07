@@ -11,4 +11,6 @@ Connect GitHub, get an editable map of your dev stack, and share it as a public 
 **[@epilandparkbot](https://t.me/epilandparkbot)**  
 Telegram bot for Epiland park — WebApp booking, AI replies, and an admin panel with live chat.
 
-📩 Open to freelance — [artemmorozovnot@gmail.com](mailto:artemmorozovnot@gmail.com)
+📩 Open to freelance
+<br>
+📧 artemmorozovnot@gmail.com · ✈️ [@artemmorozovm](https://t.me/artemmorozovm)
