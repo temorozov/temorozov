@@ -1,4 +1,4 @@
-[![DevMap](https://devmap.cc/api/trees/badge/temorozov)](https://devmap.cc/u/temorozov)
+[![DevMap](https://devmap.cc/api/trees/badge/cdmorozov)](https://devmap.cc/u/cdmorozov)
 <br><br>
 
 Full-stack developer focused on AI-powered web apps, automation workflows, and Telegram bots.
