@@ -6,7 +6,7 @@ Full-stack developer focused on AI-powered web apps, automation workflows, and T
 ## Projects
 
 **[devmap.cc](https://devmap.cc)**  
-Connect GitHub, get an editable map of your dev stack, and share it as a public profile.
+Connect GitHub, get an editable map of your dev stack, and share it as a public profile or github badge.
 
 **[@epilandparkbot](https://t.me/epilandparkbot)**  
 Telegram bot for Epiland park — WebApp booking, AI replies, and an admin panel with live chat.
